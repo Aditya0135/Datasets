@@ -1,2 +1,2 @@
 # Datasets
-nothing too special just includes somem data sets
+nothing too special just includes some data sets
