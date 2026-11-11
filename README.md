@@ -1,4 +1,4 @@
-
+```mermaid
 flowchart TD
     A["AI IS RAPIDLY ENTERING CRITICAL SECTORS"] --> B["ETHICAL PROBLEMS"]
 
@@ -99,3 +99,4 @@ flowchart TD
     L --> L1["Move beyond developing technical algorithms"]
     L1 --> L2["Design XAI around HUMAN UNDERSTANDING"]
     L2 --> L3["Build systems people can understand, trust and use responsibly"]
+```
